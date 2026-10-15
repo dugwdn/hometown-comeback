@@ -12,6 +12,7 @@ You grew up in Millbrook, left, and now come back. You fix up five shops in this
 The five also have a relationship web that ends in a shared Friday Night gathering. Full text: `docs/shops-and-characters.md` (source of truth for story and tone).
 
 ## Rules (Doug's standing rules for games)
+- **HANDOFF.md (Doug, 2026-10-15, standing):** update HANDOFF.md in the same PR as any change to hosting, domain/DNS, the data model or migrations, the build/deploy path, scheduled jobs, outside services, or a key decision (new ADR).
 - Tone: cozy, warm, gentle humor. The player is a catalyst, not a savior. Era-authentic 70s to 90s details.
 - Plays free in the browser on all devices. Say "device", not "phone". Check 390px wide.
 - Plays on mute, captions on by default. A full screen button on the game.
